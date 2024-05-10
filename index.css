@@ -35,7 +35,7 @@ header {
     flex-flow: column;
     gap: 1rem;
   }
-margin-top: 15rem;
+
   & img {
     height: 120px;
     margin-top: -0.8rem;
@@ -178,11 +178,11 @@ main {
     border-radius: 0.3rem;
     font-size: 1.6rem;
     font-weight: 700;
-    padding: 0.7rem 1rem;
+    padding: 0.5rem 0.8rem;
     box-shadow: 0.1rem 0.1rem 0.4rem gray;
     text-decoration: none;
     text-align: center;
-    width: 27rem;
+    width: 8rem;
   }
 
   & .navegacao1:hover {
@@ -241,7 +241,6 @@ footer {
 }
 
 /*-----------------------------------------------------------*/
-
 
 @media (min-width: 500px) {
   body {
@@ -522,5 +521,3 @@ footer {
     margin-bottom: 0rem;
   }
 }
-
-
