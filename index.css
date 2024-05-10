@@ -242,9 +242,9 @@ footer {
 
 /*-----------------------------------------------------------*/
 
-@media (min-width: 1200rem) {
+@media (min-width: 600px) {
   body {
-    display: none;
+    /*display: none;*/
   }
   header {
     display: flex;
