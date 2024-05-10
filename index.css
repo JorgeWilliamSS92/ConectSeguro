@@ -224,7 +224,7 @@ footer {
   align-items: center;
   height: 0rem;
   gap: 3rem;
-  margin: 0rem 1rem;
+  margin: 1rem 1rem 0rem 1rem;
 
   & img {
     width: 2rem;
