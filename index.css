@@ -242,7 +242,7 @@ footer {
 
 /*-----------------------------------------------------------*/
 
-@media (min-width: 800px) {
+@media (min-width: 950px) {
   body {
     display: none;
   }
