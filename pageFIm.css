@@ -185,9 +185,8 @@ main {
   & .video2 {
     display: flex;
     align-items: center;
-    margin-left: 0rem;
-    margin-top: 2rem;
-    width: 32rem;
+    margin-top: 1rem;
+    width: 27rem;
   }
 
   & .cont {
