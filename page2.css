@@ -252,7 +252,7 @@ footer {
   margin-bottom: -1rem;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 950px) {
   body {
     display: none;
   }
