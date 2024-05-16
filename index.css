@@ -157,7 +157,7 @@ main {
 
   & .navegacao1.visivel {
     opacity: 1;
-    margin-top: 3rem;
+    margin-top: 0rem;
   }
 
   & .navegacao1 {
